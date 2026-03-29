@@ -40,7 +40,7 @@ This repository contains five Linux shell scripts developed for the Open Source 
 1. Open a terminal in Linux Mint.  
 2. Navigate to the folder containing the scripts.  
 3. Make the scripts executable:
-bash
+```bash
 chmod +x script1.sh
 chmod +x script2.sh
 chmod +x script3.sh
