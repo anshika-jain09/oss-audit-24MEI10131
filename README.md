@@ -3,12 +3,22 @@
 **Student Name:** Anshika Jain  
 **Roll Number:** 24MEI10131 
 
-**Chosen Software:** VLC Media Player 
+**Chosen Software:** VLC Media Player
+VLC is a free and open-source multimedia player that supports a wide range of audio and video formats. It is widely used due to its flexibility and cross-platform support.
 
 ---
 
 ## Project Description
 This repository contains five Linux shell scripts developed for the Open Source Software lab. These scripts demonstrate basic system auditing, package inspection, disk and permission checking, log analysis, and automation of simple tasks. Each script includes instructions on how to run it in Linux Mint.
+
+---
+
+## Environment Setup
+Tested on:
+Linux Mint (VirtualBox)
+You can use:
+VirtualBox with Linux Mint
+Any Ubuntu-based Linux distribution
 
 ---
 
@@ -54,4 +64,5 @@ chmod +x script5.sh
 - `dpkg` command (for package inspection in Script 2)
 - `lsb_release` command (for distro info in Script 1)
 - Access to log files (e.g., /var/log/messages) for Script 4
+
 
