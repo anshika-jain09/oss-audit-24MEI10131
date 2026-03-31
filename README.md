@@ -16,9 +16,10 @@ This repository contains five Linux shell scripts developed for the Open Source 
 ## Environment Setup
 Tested on:
 Linux Mint (VirtualBox)
+
 You can use:
-VirtualBox with Linux Mint
-Any Ubuntu-based Linux distribution
+- VirtualBox with Linux Mint
+- Any Ubuntu-based Linux distribution
 
 ---
 
@@ -52,10 +53,15 @@ Any Ubuntu-based Linux distribution
 3. Make the scripts executable:
 ```bash
 chmod +x script1.sh
+./script1.sh
 chmod +x script2.sh
+./script2.sh
 chmod +x script3.sh
+./script3.sh
 chmod +x script4.sh
+./script4.sh
 chmod +x script5.sh
+./script5.sh
 
 ## Dependencies
 - Linux Mint (or Debian-based Linux)
